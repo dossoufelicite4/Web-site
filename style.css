@@ -1,0 +1,18 @@
+.centrer-l-image {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+    width: 200px;
+    border-radius: 150px;
+}
+
+.nom {
+    text-align: center;
+    font-weight: bold;
+}
+
+.description {
+    text-align: center;
+}
